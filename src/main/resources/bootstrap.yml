@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: boot-admin
+    
+  banner:
+    location: goa_banner.txt
+      
