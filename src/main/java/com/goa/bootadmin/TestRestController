@@ -12,4 +12,9 @@ public class TestRestController {
 	public String holaMundo() {
 		return "hola mundo";
 	}
+
+	@GetMapping("/hola2")
+	public String holaMundo2() {
+		return "hola mundo 2";
+	}
 }
